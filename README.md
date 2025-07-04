@@ -4,6 +4,7 @@ I'm a passionate developer currently honing my skills in software development an
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshya-verma-a79745255)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lakshya123kl@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-six-peach-12.vercel.app/)
 
 # 💻 Tech Stack
 ### Languages
