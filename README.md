@@ -27,5 +27,5 @@ I'm a passionate developer currently honing my skills in software development an
 
 ---
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=LakshyaVerma123kl&label=Profile%20Views&color=1&icon=5&pretty=true)
+![Profile Views](https://komarev.com/ghpvc/?username=LakshyaVerma123kl&color=blue)
 
