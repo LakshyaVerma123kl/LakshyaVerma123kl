@@ -16,22 +16,31 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-```typescript
+- 🔭 I'm currently working on **Full Stack Web Development**
+- 🌱 I'm currently learning **Cloud Computing & AI/ML**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 🤔 I'm looking for help with **Advanced System Design**
+- 💬 Ask me about **React, Node.js, Python, and Cloud Technologies**
+- 📫 How to reach me: **lakshya123kl@gmail.com**
+- ⚡ Fun fact: **I debug with console.log() and I'm not ashamed! 😄**
+
+<br clear="both"/>
+
+```javascript
 const lakshya = {
     pronouns: "He/Him",
-    code: ["TypeScript", "Python", "Java", "C++", "JavaScript"],
+    code: ["JavaScript", "Python", "Java", "C++", "TypeScript"],
     askMeAbout: ["Web Dev", "AI/ML", "Cloud Computing", "Open Source"],
     technologies: {
-        frontend: ["React", "Next.js", "Vue.js", "TypeScript"],
+        frontend: ["React", "Next.js", "TailwindCSS"],
         backend: ["Node.js", "Python", "Django", "FastAPI"],
         database: ["MongoDB", "PostgreSQL", "MySQL"],
-        cloud: ["AWS", "Firebase", "Heroku", "Vercel"],
-        tools: ["Docker", "Git", "GitHub Actions", "Postman"]
+        cloud: ["AWS", "Firebase", "Heroku", "Vercel"]
     },
-    currentFocus: "Building scalable web applications with modern technologies",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+    currentFocus: "Building scalable web applications",
+    funFact: "I love turning coffee into code! ☕"
 };
 ```
 
@@ -143,25 +152,20 @@ const lakshya = {
 ## 🎯 Current Focus
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LakshyaVerma123kl&repo=portfolio&theme=tokyonight&hide_border=true" alt="Portfolio Repo"/>
-</div>
+  
+**🔥 Currently Working On:**
+- 🌐 Building responsive web applications with React & Next.js
+- 🤖 Exploring AI/ML integration in web development
+- ☁️ Learning cloud architecture and deployment strategies
+- 🚀 Contributing to open source projects
 
-```mermaid
-gantt
-    title My Development Journey
-    dateFormat  YYYY-MM-DD
-    section Learning
-    Frontend Development    :done, frontend, 2023-01-01, 2023-06-30
-    Backend Development     :done, backend, 2023-04-01, 2023-10-31
-    Cloud Computing         :active, cloud, 2023-08-01, 2024-03-31
-    AI/ML Integration       :active, ai, 2023-11-01, 2024-06-30
-    DevOps & Deployment     :devops, 2024-01-01, 2024-08-31
-    section Projects
-    Personal Portfolio      :done, portfolio, 2023-03-01, 2023-05-31
-    Full Stack App          :done, fullstack, 2023-07-01, 2023-09-30
-    AI-Powered Project      :active, aiproject, 2023-12-01, 2024-04-30
-    Open Source Contribution :opensource, 2024-02-01, 2024-12-31
-```
+**🎯 2024 Goals:**
+- Master advanced React patterns and performance optimization
+- Build and deploy 5+ full-stack projects
+- Contribute to major open source repositories
+- Learn DevOps and CI/CD best practices
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
 
@@ -171,38 +175,51 @@ gantt
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
 </div>
 
-## 🐍 Contribution Snake
+## 🐍 My Contributions
 
 <div align="center">
-  <img src="https://github.com/LakshyaVerma123kl/LakshyaVerma123kl/blob/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LakshyaVerma123kl/LakshyaVerma123kl/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LakshyaVerma123kl/LakshyaVerma123kl/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LakshyaVerma123kl/LakshyaVerma123kl/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
 
 ## 📈 Weekly Development Breakdown
 
-<!--START_SECTION:waka-->
+<div align="center">
+  
+**💻 This Week I Spent My Time On:**
+
 ```text
-TypeScript   8 hrs 15 mins   ████████████░░░░░░░░░░░░░   48.2%
-Python       4 hrs 30 mins   ██████░░░░░░░░░░░░░░░░░░░   26.3%
-JavaScript   2 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.1%
-CSS          1 hr 35 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   9.3%
-JSON         0 hrs 5 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
+JavaScript   ████████████████████▓░░░░   75.2%
+Python       ████████▓░░░░░░░░░░░░░░░░   32.1%
+CSS          ████▓░░░░░░░░░░░░░░░░░░░░   15.8%
+HTML         ██▓░░░░░░░░░░░░░░░░░░░░░░   8.7%
 ```
-<!--END_SECTION:waka-->
+
+**🎯 Languages I Code In:**
+- JavaScript & TypeScript for modern web development
+- Python for backend APIs and data analysis
+- Java & C++ for system programming
+- HTML/CSS for responsive design
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
 
-## 🎵 Spotify Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Playing"/>
-</div>
+## 🎵 What I'm Listening To
 
 <div align="center">
   <a href="https://open.spotify.com/user/r2cvcosws0vccxs3w5pt3snwj?si=27bab99ac7fb4dce" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile"/>
   </a>
+  
+  <br><br>
+  
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=r2cvcosws0vccxs3w5pt3snwj&count=3" alt="Recently Played"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
