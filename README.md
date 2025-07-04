@@ -1,9 +1,15 @@
 # 💫 About Me
 I'm a passionate developer currently honing my skills in software development and exploring cutting-edge technologies. Always eager to learn, build, and contribute to innovative projects!
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=LakshyaVerma123kl&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/LakshyaVerma123kl?style=for-the-badge&color=0e75b6&label=Followers" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/LakshyaVerma123kl?style=for-the-badge&color=0e75b6&label=Stars" alt="Stars"/>
+</div>
+
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshya-verma-a79745255)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lakshya123kl@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshya-verma-a79745255)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshya123kl@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-six-peach-12.vercel.app/)
 
 # 💻 Tech Stack
@@ -19,13 +25,30 @@ I'm a passionate developer currently honing my skills in software development an
 ### Databases & Data Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
+# 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LakshyaVerma123kl&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LakshyaVerma123kl&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshyaVerma123kl&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+</div>
+
 # 🚀 Let's Code!
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LakshyaVerma123kl&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</div>
 
 ### ✍️ Random Dev Quote
-*"Code is like humor. When you have to explain it, it’s bad."* – Cory House
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=LakshyaVerma123kl&color=blue)
-
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/LakshyaVerma123kl">LakshyaVerma123kl</a></i>
+</div>
